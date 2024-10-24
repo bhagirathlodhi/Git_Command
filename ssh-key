@@ -1,0 +1,5 @@
+Run the command in cmd 
+        >ssh-keygen
+Go to .ssh directory and run command (make sure your .pub file name)
+        >type C:\Users\Admin\.ssh\id_ed25519.pub
+
